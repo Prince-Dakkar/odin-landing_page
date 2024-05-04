@@ -204,3 +204,18 @@ a {
     color: white;
     padding: 25px;
 }
+
+/*                          Additional Pages                   */
+.guide {
+    display: flex;
+    margin: 30px;
+    gap: 30px;
+    justify-content: center;
+}
+.guide img{
+    width: 40%;
+    border: 2px solid black;
+}
+#back-home a{
+    color:black;
+}
