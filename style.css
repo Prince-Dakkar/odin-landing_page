@@ -181,12 +181,14 @@ a {
     justify-content:space-around;
     align-items:center;
     font-size: larger;
+    flex-wrap: wrap;
 }
 .call-to-action {
     padding: 10px;
 }
 #action-call {
     border-color: white;
+    
 }
 .btn {
     text-decoration: none;
